@@ -1,0 +1,17 @@
+form{
+    width: 450px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 12px;
+    background-color: coral;
+}
+
+form input{
+    padding: 5px;
+    
+}
+
+#btn_registart{
+    text-align: center;
+    font-weight: bold;
+}

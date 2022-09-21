@@ -1,0 +1,33 @@
+/* este es un ejemplo de un comentario */
+/* ctrl+ } */
+/* aplicamos css con el selector de elemento */
+h1{
+    color: blue;
+    text-decoration: overline underline;
+    text-decoration-color: darkorange;
+    letter-spacing: 10px;
+}
+
+/* seleccionar por id se hace con # */
+#h1ListaDesFrutas{
+    color:red;
+    text-align: center;
+}
+
+li{
+    color:brown;
+    font-family: 'AudioWide';
+}
+
+ul{
+    list-style-type: square;
+}
+ol{
+    list-style-type: decimal-leading-zero;
+}
+
+.itemmelon{
+    background-color: dimgray;
+    font-family: 'sofia', 'sans-serif';
+    text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+table{
+    border: 10px;
+    padding: 8px;
+    background-color: azure;
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+
+}
+tr:hover{
+    background-color: gold;
+    padding: 10px;
+}
